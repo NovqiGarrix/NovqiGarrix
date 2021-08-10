@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NovqiGarrix
-- 👀 I’m interested in NextJs
+- 👀 I’m interested in NextJs and Typescript
 - 🌱 I’m currently learning Tailwindcss
 <!---
 NovqiGarrix/NovqiGarrix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
