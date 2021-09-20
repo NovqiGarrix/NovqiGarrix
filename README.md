@@ -2,11 +2,17 @@
 - 👀 I’m interested in NextJs and Typescript
 - 🌱 I’m currently learning Microservices Architecture using Node JS
 - ✔  My skills:
-  -   Typescript      - Tailwind CSS        - MongoDb with Mongoose
-  -   React.js        - Node JS
-  -   Next.js         - Express.js
-  -   Redux           - Puppeteer
-  -   Material UI     - GraphQL
+  -   Typescript
+  -   GraphQL
+  -   React.js
+  -   Next.js
+  -   Redux  
+  -   Material UI 
+  -   Tailwind CSS
+  -   Node JS
+  -   Express.js
+  -   Puppeteer
+  -   MongoDb with Mongoose
 
 <!---
 NovqiGarrix/NovqiGarrix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
