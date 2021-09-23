@@ -13,6 +13,7 @@
   -   Express.js
   -   Puppeteer
   -   MongoDb with Mongoose
+  -   Redis
 
 <!---
 NovqiGarrix/NovqiGarrix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
