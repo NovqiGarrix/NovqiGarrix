@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NovqiGarrix
-- 👀 I’m interested in NextJs and Typescript
+- 👀 I’m interested Nest and Express JS
 - 🌱 I’m currently learning Microservices Architecture using Node JS
 - ✔  My skills:
   -   Typescript
