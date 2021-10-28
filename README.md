@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @NovqiGarrix
-- 👀 I’m interested in Nest and Express JS
-- 🌱 I’m currently learning Microservices Architecture using Node JS
+- 👀 I’m interested Express.js and Next.js
+- 🌱 I’m currently learning Microservices using Node JS
