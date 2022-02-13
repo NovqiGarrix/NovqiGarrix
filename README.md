@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @NovqiGarrix
-- 👀 I’m interested Express.js and Next.js
+- 👀 I’m interested in Next.js and Express.js 
 - 🌱 I’m currently learning Microservices using Node JS
