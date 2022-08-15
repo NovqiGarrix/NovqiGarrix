@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @NovqiGarrix
-- 👀 I’m interested in Next.js and Express.js 
-- 🌱 I’m currently learning Microservices using Node JS
+- 👀 I’m interested in Next.js and Deno.js
+- 🌱 I’m currently deep down to Deno.js and learning more about Microservices Architecture
