@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @NovqiGarrix
-- 👀 I’m interested in Next.js and Deno.js
-- 🌱 I’m currently deep down to Deno.js and learning more about Microservices Architecture
+- 👀 Learning Go and Deno
+- 🌱 Freelancing as a Backend Engineer
+- 🔥Upwork: https://bit.ly/3hF9WRp
