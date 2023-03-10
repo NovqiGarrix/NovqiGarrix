@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @NovqiGarrix
-- 👀 Learning Go and Deno
-- 🌱 Freelancing as a Backend Engineer
+- 👀 Loving Node.js with TypeScript, and Deno
+- 🌱 I'm a Freelancer as a Frontend Developer and Backend Developer
 - 🔥Upwork: https://bit.ly/3hF9WRp
