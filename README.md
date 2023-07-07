@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @NovqiGarrix
-- 👀 Loving Node.js with TypeScript, and Deno
+- 👀 Learning Rust
 - 🌱 I'm a Freelancer as a Frontend Developer and Backend Developer
 - 🔥Upwork: https://bit.ly/3hF9WRp
