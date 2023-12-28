@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @NovqiGarrix
 - 👀 Learning Rust
-- 🌱 I'm a Freelancer as a Frontend Developer and Backend Developer
+- 🌱 Love backend developer
 - 🔥Upwork: https://bit.ly/3hF9WRp
